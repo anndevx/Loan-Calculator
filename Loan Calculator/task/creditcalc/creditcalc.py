@@ -23,22 +23,3 @@ elif choosing == "p":
         print(f'Your monthly payment = {result}')
     else:
         print(f'Your monthly payment = {result} and the last payment = {lastpayment}.')
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
